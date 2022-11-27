@@ -1,1 +1,2 @@
-Implantar cluster swarm com vagrant usando hyper-v e imagem ubuntu
+Implantar cluster swarm com vagrant usando virtualbox e imagem ubuntu
+Vagrant com Hyper-v não oferece suporte a ip estatico
